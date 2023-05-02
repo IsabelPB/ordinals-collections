@@ -167,4 +167,16 @@
 		"totalSupply": 50,
 		"idsFileSlug": "ordinal-faces"
 	}
+	{
+		"collectionName": "Ordinals Flamenco",
+		"twitter": "https://twitter.com/OrdinalFlamenco",
+		"logo": "https://ordinals.com/content/ab3ffa91f687cefafd6530abe713ad6cf597426fcd7ff05c5d3a1cf70eef6844i0",
+		"website": "www.ordinalsflamenco.es",
+		"description": "The World Cultural Diversity on Metaverse",
+		"discord": "https://discord.gg/ordinalsflamenco",
+		"lowestInscription": "548843",
+		"highestInscription": "1052264",
+		"totalSupply": 13,
+		"idsFileSlug": "ordinals-flamenco"
+	}
 ]
